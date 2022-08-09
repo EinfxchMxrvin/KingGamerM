@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @KingGamerM
-- 👀 I’m interested in programmieren
-- 🌱 I’m currently learning programmieren
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hey i am KingGamerM!
+- i am a Minecraft-Nerzwerk owner and i am a content creator
 
-<!---
-KingGamerM/KingGamerM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- https://nexusnight.net
+- https://nexusnight.net/discord
+- https://shop.nexusnight.net
